@@ -26,6 +26,10 @@ html {
   font-family: "Roboto", sans-serif;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 .main {
   display: flex;
   flex-direction: row;
